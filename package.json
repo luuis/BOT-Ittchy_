@@ -1,0 +1,23 @@
+{
+  "name": "bot-ittchy",
+  "version": "1.0.0",
+  "description": "A simple Chat Bot for a Ittchy_'s Twitch Channel.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luuis/BOT-Ittchy_.git"
+  },
+  "author": "Luis Enrique Suarez Rosas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luuis/BOT-Ittchy_/issues"
+  },
+  "homepage": "https://github.com/luuis/BOT-Ittchy_#readme",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
